@@ -1,6 +1,7 @@
 ## Olá! Meu nome é Caio Alessandro Brito de Assis
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAssis&theme=transparent&title_color=00FF00&text_color=00A300)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAssis&theme=transparent&title_color=00FF00&text_color=00A300)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only&show_icons=true)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=CaioAssis&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only&show_icons=true)
 
 <!--
 **CaioAssis/CaioAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
