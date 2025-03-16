@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá! Meu nome é Caio Alessandro Brito de Assis
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAssis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAssis)](https://github.com/anuraghazra/github-readme-stats&theme=transparent&text_color=00FF00)
 
 
 <!--
